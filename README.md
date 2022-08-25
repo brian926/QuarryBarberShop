@@ -15,4 +15,7 @@ This application is simple static site including the following sections:
 -**The Team**: This section shows off a section where team members can be listed
 
 ## Technologies Used
-Made with **HTML5** and **CSS3**.
+Made with **HTML5** and **CSS3** with PHP to deploy in **Heroku**.
+
+### TODO
+Move site from Heroku onto another cloud hosting platform now that the Heroku free trier is being discontinued. 
