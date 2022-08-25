@@ -5,7 +5,7 @@ This website was created as an example of the services I could provide to a barb
 
 This repository contains all the files for the site. The current designer and developer of the project is Ruth Reed.
 
-View project [here](https://saltcitygrooming.netlify.app/).
+View project [here](https://thequarrybarbershop.herokuapp.com/).
 
 ## Details of Application
 This application is simple static site including the following sections:
