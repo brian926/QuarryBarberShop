@@ -9,10 +9,10 @@ View project [here](https://thequarrybarbershop.herokuapp.com/).
 
 ## Details of Application
 This application is simple static site including the following sections:
--**Home**: This is what the user sees upon first loading the page. It introduces the business.
--**About Us**: This section shows a short 'About us' for the shop
--**Services**: This section provides the business services and their prices for the user.
--**The Team**: This section shows off a section where team members can be listed
+- **Home**: This is what the user sees upon first loading the page. It introduces the business.
+- **About Us**: This section shows a short 'About us' for the shop
+- **Services**: This section provides the business services and their prices for the user.
+- **The Team**: This section shows off a section where team members can be listed
 
 ## Technologies Used
 Made with **HTML5** and **CSS3** with PHP to deploy in **Heroku**.
