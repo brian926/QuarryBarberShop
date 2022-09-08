@@ -5,7 +5,7 @@ This website was created as an example of the services I could provide to a barb
 
 This repository contains all the files for the site. The current designer and developer of the project is Ruth Reed.
 
-View project [here](https://thequarrybarbershop.herokuapp.com/).
+View project [here](https://quarrywebapp.azurewebsites.net/).
 
 ## Details of Application
 This application is simple static site including the following sections:
@@ -15,7 +15,7 @@ This application is simple static site including the following sections:
 - **The Team**: This section shows off a section where team members can be listed
 
 ## Technologies Used
-Made with **HTML5** and **CSS3** with PHP to deploy in **Heroku**.
+Made with **HTML5** and **CSS3** and is deployed/running in **Azure** on a **Docker** container.
 
 ### TODO
-Move site from Heroku onto another cloud hosting platform now that the Heroku free trier is being discontinued. 
+Create GitHub Actions to autodeploy to Azure on any changes
