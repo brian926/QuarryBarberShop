@@ -3,7 +3,7 @@
 ## About
 This website was created as an example of the services I could provide to a barber shop. Right now, the main design is from HTML5 and then butchered into what fitted my needs.
 
-This repository contains all the files for the site. The current designer and developer of the project is Ruth Reed.
+This repository contains all the files for the site.
 
 View project [here](https://quarrywebapp.azurewebsites.net/).
 
@@ -15,7 +15,4 @@ This application is simple static site including the following sections:
 - **The Team**: This section shows off a section where team members can be listed
 
 ## Technologies Used
-Made with **HTML5** and **CSS3** and is deployed/running in **Azure** on a **Docker** container.
-
-### TODO
-Create GitHub Actions to autodeploy to Azure on any changes
+Made with **HTML5** and **CSS3** and is deployed/running in **Azure** on a **Docker** container. Currently, I maintain a CI/CD pipeline to **Azure** by using **GitHub Actions** to build a new **Docker** container on every push to this repo, thus keeping the **Azure** container up to date.
