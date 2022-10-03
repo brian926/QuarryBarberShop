@@ -5,7 +5,7 @@ This website was created as an example of the services I could provide to a barb
 
 This repository contains all the files for the site.
 
-View project [here](https://quarrywebapp.azurewebsites.net/).
+View project [here](https://storied-torrone-03c3f0.netlify.app/).
 
 ## Details of Application
 This application is simple static site including the following sections:
@@ -15,4 +15,4 @@ This application is simple static site including the following sections:
 - **The Team**: This section shows off a section where team members can be listed
 
 ## Technologies Used
-Made with **HTML5** and **CSS3** and is deployed/running in **Azure** on a **Docker** container. Currently, I maintain a CI/CD pipeline to **Azure** by using **GitHub Actions** to build a new **Docker** container on every push to this repo, thus keeping the **Azure** container up to date.
+Made with **HTML5** and **CSS3**, additional *Dockerfile* in order to run a **Docker** container if needed.
