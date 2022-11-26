@@ -5,7 +5,7 @@ This website was created as an example of the services I could provide to a barb
 
 This repository contains all the files for the site.
 
-View project [here](https://storied-torrone-03c3f0.netlify.app/).
+View project [here](thequarrybarbershop.netlify.app).
 
 ## Details of Application
 This application is simple static site including the following sections:
